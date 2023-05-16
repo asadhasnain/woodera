@@ -1,25 +1,14 @@
-import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import { AnnouncementBar } from "./layout/AnnouncementBar";
+import { Container } from "./layout/Container";
+import { CopyRightsFooter } from "./layout/CopyRightsFooter";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Container>
+          <AnnouncementBar message="Hello World" />
+          <CopyRightsFooter message="© 2023 powered by LetsDoIt" />
+      </Container>
   );
 }
 
