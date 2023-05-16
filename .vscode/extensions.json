@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "msjsdiag.debugger-for-chrome",
+    "dbaeumer.vscode-eslint",
+    "davidanson.vscode-markdownlint",
+    "mike-co.import-sorter",
+    "redhat.vscode-yaml",
+    "dsznajder.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "ms-dotnettools.csharp",
+    "cssho.vscode-svgviewer",
+    "nathhorrigan.code-svgr",
+    "wayou.vscode-todo-highlight",
+    "aaron-bond.better-comments",
+    "AlexShen.classdiagram-ts",
+    "WhiteSource.whitesource-advise",
+    "uctakeoff.vscode-counter",
+    "vizzuhq.code-viz-stat",
+    "juanallo.vscode-dependency-cruiser",
+    "gera2ld.markmap-vscode",
+    "unional.vscode-sort-package-json"
+  ]
+}
