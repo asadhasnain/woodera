@@ -19,6 +19,7 @@
     "vizzuhq.code-viz-stat",
     "juanallo.vscode-dependency-cruiser",
     "gera2ld.markmap-vscode",
-    "unional.vscode-sort-package-json"
+    "unional.vscode-sort-package-json",
+    "firsttris.vscode-jest-runner"
   ]
 }
