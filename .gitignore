@@ -6,6 +6,10 @@ yarn-error.log*
 
 out/
 
+.VSCodeCounter
+
+build
+
 # Runtime data
 *.pid
 *.seed
